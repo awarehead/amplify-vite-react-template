@@ -35,7 +35,7 @@ function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+        Click task to DELETE. 🗑️
         <br />
       </div>
       <button onClick={signOut}>Sign out</button>
